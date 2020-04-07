@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: 1.8.0_72-b15 (Oracle Corporation)
+Main-Class: org.openqa.grid.selenium.GridLauncher
+
+Name: Build-Info
+Selenium-Version: 2.53.1
+Selenium-Revision: a36b8b1
+Selenium-Build-Time: 2016-06-30 17:37:03
+
